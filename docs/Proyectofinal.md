@@ -72,8 +72,6 @@
 ### Horn del servo
 ![Horn del servo](imgs/hornservo.png)
 
-### Diagrama de organización en Git
-![Diagrama Git](imgs/git_diagram.png)
 
 ## 6) Código fuente (Python + Arduino en un solo bloque)
 
